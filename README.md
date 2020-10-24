@@ -1,1 +1,1 @@
-# js-keylogger
+# JavaScript KeyLogger
